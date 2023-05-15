@@ -1,6 +1,6 @@
 #+Title: Introduction to Computing for Psychology Students
 #+Author: Britt Anderson
-**This is my fork**
+## This is my fork
 
 * Overview
   This repository houses material I use in teaching at the University of Waterloo (Canada). The purpose is to introduce psychology undergraduates with limited quantitative and computing backgrounds to using their computers as research tools The topics covered include: 
